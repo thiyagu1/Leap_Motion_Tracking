@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  Leap_Motion_Track.cpp
+  Generating code
+  35 of 80 functions (43.8%) were compiled, the rest were copied from previous compilation.
+    15 functions were new in current compilation
+    6 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Leap_Motion_Track.vcxproj -> C:\Users\varjo\source\repos\Leap_Motion_Track\x64\Release\Leap_Motion_Track.exe
